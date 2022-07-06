@@ -1,11 +1,15 @@
+h1,h2{
+    line-height: 10px;
+}
 P, li {
     line-height: 30px;
-    width: 40%;
-}
-a{
-    line-height: 0%;
+    width: 450px;
+    
 }
 
+*{
+    line-height: 0%;
+}
 
 
 img{
@@ -14,7 +18,8 @@ img{
 }
 
 body{
-    padding-left: 20px;
+    padding-left: 15px;
     padding-bottom: 30px;
+    font-family:'Times New Roman', Times, serif;
 }
 
